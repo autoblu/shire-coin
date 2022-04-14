@@ -1,0 +1,2 @@
+# shire-coin
+SHIRE
